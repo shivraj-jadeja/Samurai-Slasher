@@ -1,0 +1,47 @@
+[
+  {
+    "Name": "snd_katana",
+    "Flags": "IsEmbedded, Regular",
+    "Type": null,
+    "File": "snd_katana.mp3",
+    "Effects": 0,
+    "Volume": 1.0,
+    "Preload": true,
+    "Pitch": 0.0,
+    "AudioGroup": "audiogroup_default",
+    "AudioFile": "EmbeddedSound 0",
+    "AudioID": 0,
+    "GroupID": 0,
+    "AudioLength": 0.89
+  },
+  {
+    "Name": "snd_music_loop",
+    "Flags": "IsEmbedded, Regular",
+    "Type": null,
+    "File": "snd_music_loop.mp3",
+    "Effects": 0,
+    "Volume": 1.0,
+    "Preload": true,
+    "Pitch": 0.0,
+    "AudioGroup": "audiogroup_default",
+    "AudioFile": "EmbeddedSound 1",
+    "AudioID": 1,
+    "GroupID": 0,
+    "AudioLength": 11.15
+  },
+  {
+    "Name": "snd_run_loop",
+    "Flags": "IsEmbedded, Regular",
+    "Type": null,
+    "File": "snd_run_loop.mp3",
+    "Effects": 0,
+    "Volume": 1.0,
+    "Preload": true,
+    "Pitch": 0.0,
+    "AudioGroup": "audiogroup_default",
+    "AudioFile": "EmbeddedSound 2",
+    "AudioID": 2,
+    "GroupID": 0,
+    "AudioLength": 6.26
+  }
+]

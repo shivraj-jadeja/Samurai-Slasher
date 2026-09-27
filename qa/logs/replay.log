@@ -1,0 +1,54 @@
+Setting scheduler resolution to 1
+Attempting to set gamepadcount to 12
+DirectX11: Using hardware device
+Collision Event time(microsecs)=3
+CreateColPairs took 0.000000s 1 usecs for 24 object types obj_col_numb=0 physobjcount=0 resizes 0 final size 0
+SR START seed=42
+SR CHECK PASS: retry/replay resets player and session
+SR CHECK PASS: retry/replay clears old world and goal
+SR CYCLE 0
+Total memory used = 18446152(0x01197748) bytes 17.59MB
+Peak memory used = 9759952(0x0094ecd0) bytes 9.31MB
+**********************************.
+Entering main loop.
+**********************************.
+SR ROUTE step=600 x=1232 segments=6
+SR ROUTE step=1200 x=2432 segments=6
+SR ROUTE step=1800 x=3632 segments=7
+SR ROUTE step=2400 x=4832 segments=6
+SR ROUTE step=3000 x=6032 segments=6
+SR ROUTE step=3600 x=7232 segments=7
+SR WON seed=42 steps=4183 score=8366 grounded=1 max_instances=976 max_segments=10
+SR RESULTS stable PASS steps=7200
+SR START seed=42
+SR CHECK PASS: retry/replay resets player and session
+SR CHECK PASS: retry/replay clears old world and goal
+SR CHECK PASS: previous music handle stopped
+SR CYCLE 1
+SR ROUTE step=600 x=1232 segments=6
+SR ROUTE step=1200 x=2432 segments=6
+SR ROUTE step=1800 x=3632 segments=7
+SR ROUTE step=2400 x=4832 segments=6
+SR ROUTE step=3000 x=6032 segments=6
+SR ROUTE step=3600 x=7232 segments=7
+SR WON seed=42 steps=4183 score=8366 grounded=1 max_instances=976 max_segments=10
+SR RESULTS stable PASS steps=120
+SR START seed=42
+SR CHECK PASS: retry/replay resets player and session
+SR CHECK PASS: retry/replay clears old world and goal
+SR CHECK PASS: previous music handle stopped
+SR CYCLE 2
+SR WON seed=42 steps=599 score=1198 grounded=1 max_instances=692 max_segments=7
+SR RESULTS stable PASS steps=120
+SR START seed=42
+SR CHECK PASS: retry/replay resets player and session
+SR CHECK PASS: retry/replay clears old world and goal
+SR CHECK PASS: previous music handle stopped
+SR CYCLE 3
+SR WON seed=42 steps=599 score=1198 grounded=1 max_instances=692 max_segments=7
+SR RESULTS stable PASS steps=120
+SR SESSION TEST COMPLETE
+###game_end###0
+Attempting to set gamepadcount to 0
+Script_Free called with 31 and global 5
+Unsetting previous scheduler resolution of 1

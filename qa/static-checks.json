@@ -1,0 +1,12 @@
+{
+  "static_checks": "PASS",
+  "resources": 72,
+  "sprites": 39,
+  "frames": 132,
+  "sounds": 3,
+  "objects": 23,
+  "rooms": 2,
+  "asset_bytes": "All composite/layer PNGs and WAVs match recovery SHA-256",
+  "graph": "All references, sequence keys, events and room creation-order entries resolve",
+  "runtime_checks": "Reported separately in TEST_REPORT.md"
+}

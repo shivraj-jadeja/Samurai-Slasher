@@ -1,0 +1,17 @@
+{
+  "archive_sha256": "91de69bee9b1ffb9176256723082dd37665e9c98ed629ee86efaede334a04adc",
+  "files": {
+    "data.win": {
+      "bytes": 1737326,
+      "sha256": "f0f39bbf3cd1826952a2fcb4a58142155b4381a4ed8cd44be6c6014f2581e8aa"
+    },
+    "options.ini": {
+      "bytes": 27,
+      "sha256": "8a8a8276fdcc014544dc5851bfd7986def326d2b6a5243d55c5da8e32531cafc"
+    },
+    "Samurai Runner.exe": {
+      "bytes": 7890432,
+      "sha256": "2d6a0a094f19de41b2c109f3b54790046ee21e90e27ec8f7f4e1b1ef55645afd"
+    }
+  }
+}

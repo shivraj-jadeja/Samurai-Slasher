@@ -1,0 +1,9 @@
+*.local
+*.yydebug
+*.yyp.bak
+*.resource_order.bak
+build/
+cache/
+temp/
+*.log
+!qa/logs/*.log

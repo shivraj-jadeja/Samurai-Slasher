@@ -1,0 +1,129 @@
+Setting scheduler resolution to 1
+Attempting to set gamepadcount to 12
+DirectX11: Using hardware device
+Collision Event time(microsecs)=2
+CreateColPairs took 0.000000s 1 usecs for 24 object types obj_col_numb=0 physobjcount=0 resizes 0 final size 0
+SR START seed=12345
+SR CHECK PASS: single controller/player
+SR CHECK PASS: explicit clean run state
+SR CHECK PASS: four prewarmed segments
+SR CHECK PASS: original character origin
+SR CHECK PASS: native 30 FPS and run multiplier
+SR BBOX 14972,592,15018,640
+SR CHECK PASS: stable run movement rectangle
+SR CHECK PASS: gold is solid ground
+SR CHECK PASS: ordinary solids are nonlethal
+SR CHECK PASS: fractional horizontal movement terminates and accumulates
+SR CHECK PASS: half-pixel remainder retained
+SR CHECK PASS: two half pixels become one pixel
+SR CHECK PASS: downward ground collision bounded
+SR CHECK PASS: actual landing transforms during either attack
+SR CHECK PASS: form change preserves attack progress and mask
+SR CHECK PASS: attack completes after form change
+SR CHECK PASS: subsequent attack accepted
+SR CHECK PASS: attack input cannot restart active swing
+SR CHECK PASS: actual landing transforms during either attack
+SR CHECK PASS: form change preserves attack progress and mask
+SR CHECK PASS: attack completes after form change
+SR CHECK PASS: subsequent attack accepted
+SR CHECK PASS: attack input cannot restart active swing
+SR CHECK PASS: actual landing transforms during either attack
+SR CHECK PASS: form change preserves attack progress and mask
+SR CHECK PASS: attack completes after form change
+SR CHECK PASS: subsequent attack accepted
+SR CHECK PASS: attack input cannot restart active swing
+SR CHECK PASS: actual landing transforms during either attack
+SR CHECK PASS: form change preserves attack progress and mask
+SR CHECK PASS: attack completes after form change
+SR CHECK PASS: subsequent attack accepted
+SR CHECK PASS: attack input cannot restart active swing
+SR CHECK PASS: nearby decoration hit in each form and attack
+SR CHECK PASS: decoration behind player survives
+SR CHECK PASS: nearby decoration hit in each form and attack
+SR CHECK PASS: decoration behind player survives
+SR CHECK PASS: nearby decoration hit in each form and attack
+SR CHECK PASS: decoration behind player survives
+SR CHECK PASS: nearby decoration hit in each form and attack
+SR CHECK PASS: decoration behind player survives
+SR CHECK PASS: nearby decoration hit in each form and attack
+SR CHECK PASS: decoration behind player survives
+SR CHECK PASS: nearby decoration hit in each form and attack
+SR CHECK PASS: decoration behind player survives
+SR CHECK PASS: nearby decoration hit in each form and attack
+SR CHECK PASS: decoration behind player survives
+SR CHECK PASS: nearby decoration hit in each form and attack
+SR CHECK PASS: decoration behind player survives
+SR CHECK PASS: nearby decoration hit in each form and attack
+SR CHECK PASS: decoration behind player survives
+SR CHECK PASS: nearby decoration hit in each form and attack
+SR CHECK PASS: decoration behind player survives
+SR CHECK PASS: nearby decoration hit in each form and attack
+SR CHECK PASS: decoration behind player survives
+SR CHECK PASS: nearby decoration hit in each form and attack
+SR CHECK PASS: decoration behind player survives
+SR CHECK PASS: nearby decoration hit in each form and attack
+SR CHECK PASS: decoration behind player survives
+SR CHECK PASS: nearby decoration hit in each form and attack
+SR CHECK PASS: decoration behind player survives
+SR CHECK PASS: nearby decoration hit in each form and attack
+SR CHECK PASS: decoration behind player survives
+SR CHECK PASS: nearby decoration hit in each form and attack
+SR CHECK PASS: decoration behind player survives
+SR CHECK PASS: nearby decoration hit in each form and attack
+SR CHECK PASS: decoration behind player survives
+SR CHECK PASS: nearby decoration hit in each form and attack
+SR CHECK PASS: decoration behind player survives
+SR CHECK PASS: attacks preserve terrain
+SR CHECK PASS: inherited hazard scale
+SR CHECK PASS: lethal family contact detected
+SR CHECK PASS: single death transition stops attacks
+SR CHECK PASS: death entry idempotent
+SR CHECK PASS: inherited hazard scale
+SR CHECK PASS: lethal family contact detected
+SR CHECK PASS: single death transition stops attacks
+SR CHECK PASS: death entry idempotent
+SR CHECK PASS: inherited hazard scale
+SR CHECK PASS: lethal family contact detected
+SR CHECK PASS: single death transition stops attacks
+SR CHECK PASS: death entry idempotent
+SR CHECK PASS: inherited hazard scale
+SR CHECK PASS: lethal family contact detected
+SR CHECK PASS: single death transition stops attacks
+SR CHECK PASS: death entry idempotent
+SR CHECK PASS: inherited hazard scale
+SR CHECK PASS: lethal family contact detected
+SR CHECK PASS: single death transition stops attacks
+SR CHECK PASS: death entry idempotent
+SR CHECK PASS: inherited hazard scale
+SR CHECK PASS: lethal family contact detected
+SR CHECK PASS: single death transition stops attacks
+SR CHECK PASS: death entry idempotent
+SR CHECK PASS: inherited hazard scale
+SR CHECK PASS: lethal family contact detected
+SR CHECK PASS: single death transition stops attacks
+SR CHECK PASS: death entry idempotent
+SR CHECK PASS: inherited hazard scale
+SR CHECK PASS: lethal family contact detected
+SR CHECK PASS: single death transition stops attacks
+SR CHECK PASS: death entry idempotent
+SR CHECK PASS: inherited hazard scale
+SR CHECK PASS: lethal family contact detected
+SR CHECK PASS: single death transition stops attacks
+SR CHECK PASS: death entry idempotent
+SR CHECK PASS: support nonlethal and nonsolid
+SR CHECK PASS: finish scheduled exactly once
+SR CHECK PASS: safe runway beyond finish
+SR CHECK PASS: logical goal deliberately maskless
+SR CHECK PASS: one-step grounded crossing geometry
+SR CHECK PASS: airborne crossing geometry
+SR CHECK PASS: death takes precedence over finish
+SR ALL CHECKS PASSED
+###game_end###0
+Total memory used = 18784857(0x011ea259) bytes 17.91MB
+Peak memory used = 9879483(0x0096bfbb) bytes 9.42MB
+**********************************.
+Entering main loop.
+**********************************.
+Attempting to set gamepadcount to 0
+Script_Free called with 31 and global 5
+Unsetting previous scheduler resolution of 1

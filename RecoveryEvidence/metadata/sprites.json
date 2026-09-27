@@ -1,0 +1,2040 @@
+[
+  {
+    "Name": "spr_airhaz_left",
+    "Width": 128,
+    "Height": 128,
+    "MarginLeft": 0,
+    "MarginRight": 127,
+    "MarginBottom": 71,
+    "MarginTop": 0,
+    "Transparent": false,
+    "Smooth": false,
+    "Preload": false,
+    "BBoxMode": 0,
+    "SepMasks": "AxisAlignedRect",
+    "OriginX": 0,
+    "OriginY": 0,
+    "OriginXWrapper": 0,
+    "OriginYWrapper": 0,
+    "Textures": [
+      {
+        "Texture": "PageItem 10"
+      }
+    ],
+    "CollisionMasks": [],
+    "SVersion": 3,
+    "SSpriteType": "Normal",
+    "GMS2PlaybackSpeed": 30.0,
+    "GMS2PlaybackSpeedType": "FramesPerSecond",
+    "IsSpecialType": true,
+    "SpineVersion": 0,
+    "SpineCacheVersion": 0,
+    "SpineJSON": null,
+    "SpineAtlas": null,
+    "SpineTextures": null,
+    "IsSpineSprite": false,
+    "SpineHasTextureData": true,
+    "IsYYSWFSprite": false,
+    "SWFVersion": 0,
+    "YYSWF": null,
+    "VectorVersion": 0,
+    "VectorShapes": null,
+    "VectorCollisionMaskWidth": 0,
+    "VectorCollisionMaskHeight": 0,
+    "VectorCollisionMaskRLEData": null,
+    "VectorFrameToShapeMap": null
+  },
+  {
+    "Name": "spr_airhaz_mid",
+    "Width": 128,
+    "Height": 128,
+    "MarginLeft": 0,
+    "MarginRight": 127,
+    "MarginBottom": 71,
+    "MarginTop": 0,
+    "Transparent": false,
+    "Smooth": false,
+    "Preload": false,
+    "BBoxMode": 0,
+    "SepMasks": "AxisAlignedRect",
+    "OriginX": 0,
+    "OriginY": 0,
+    "OriginXWrapper": 0,
+    "OriginYWrapper": 0,
+    "Textures": [
+      {
+        "Texture": "PageItem 11"
+      }
+    ],
+    "CollisionMasks": [],
+    "SVersion": 3,
+    "SSpriteType": "Normal",
+    "GMS2PlaybackSpeed": 30.0,
+    "GMS2PlaybackSpeedType": "FramesPerSecond",
+    "IsSpecialType": true,
+    "SpineVersion": 0,
+    "SpineCacheVersion": 0,
+    "SpineJSON": null,
+    "SpineAtlas": null,
+    "SpineTextures": null,
+    "IsSpineSprite": false,
+    "SpineHasTextureData": true,
+    "IsYYSWFSprite": false,
+    "SWFVersion": 0,
+    "YYSWF": null,
+    "VectorVersion": 0,
+    "VectorShapes": null,
+    "VectorCollisionMaskWidth": 0,
+    "VectorCollisionMaskHeight": 0,
+    "VectorCollisionMaskRLEData": null,
+    "VectorFrameToShapeMap": null
+  },
+  {
+    "Name": "spr_airhaz_right",
+    "Width": 128,
+    "Height": 128,
+    "MarginLeft": 0,
+    "MarginRight": 127,
+    "MarginBottom": 71,
+    "MarginTop": 0,
+    "Transparent": false,
+    "Smooth": false,
+    "Preload": false,
+    "BBoxMode": 0,
+    "SepMasks": "AxisAlignedRect",
+    "OriginX": 0,
+    "OriginY": 0,
+    "OriginXWrapper": 0,
+    "OriginYWrapper": 0,
+    "Textures": [
+      {
+        "Texture": "PageItem 12"
+      }
+    ],
+    "CollisionMasks": [],
+    "SVersion": 3,
+    "SSpriteType": "Normal",
+    "GMS2PlaybackSpeed": 30.0,
+    "GMS2PlaybackSpeedType": "FramesPerSecond",
+    "IsSpecialType": true,
+    "SpineVersion": 0,
+    "SpineCacheVersion": 0,
+    "SpineJSON": null,
+    "SpineAtlas": null,
+    "SpineTextures": null,
+    "IsSpineSprite": false,
+    "SpineHasTextureData": true,
+    "IsYYSWFSprite": false,
+    "SWFVersion": 0,
+    "YYSWF": null,
+    "VectorVersion": 0,
+    "VectorShapes": null,
+    "VectorCollisionMaskWidth": 0,
+    "VectorCollisionMaskHeight": 0,
+    "VectorCollisionMaskRLEData": null,
+    "VectorFrameToShapeMap": null
+  },
+  {
+    "Name": "spr_airhaz_single",
+    "Width": 128,
+    "Height": 128,
+    "MarginLeft": 0,
+    "MarginRight": 127,
+    "MarginBottom": 71,
+    "MarginTop": 0,
+    "Transparent": false,
+    "Smooth": false,
+    "Preload": false,
+    "BBoxMode": 0,
+    "SepMasks": "AxisAlignedRect",
+    "OriginX": 0,
+    "OriginY": 0,
+    "OriginXWrapper": 0,
+    "OriginYWrapper": 0,
+    "Textures": [
+      {
+        "Texture": "PageItem 13"
+      }
+    ],
+    "CollisionMasks": [],
+    "SVersion": 3,
+    "SSpriteType": "Normal",
+    "GMS2PlaybackSpeed": 30.0,
+    "GMS2PlaybackSpeedType": "FramesPerSecond",
+    "IsSpecialType": true,
+    "SpineVersion": 0,
+    "SpineCacheVersion": 0,
+    "SpineJSON": null,
+    "SpineAtlas": null,
+    "SpineTextures": null,
+    "IsSpineSprite": false,
+    "SpineHasTextureData": true,
+    "IsYYSWFSprite": false,
+    "SWFVersion": 0,
+    "YYSWF": null,
+    "VectorVersion": 0,
+    "VectorShapes": null,
+    "VectorCollisionMaskWidth": 0,
+    "VectorCollisionMaskHeight": 0,
+    "VectorCollisionMaskRLEData": null,
+    "VectorFrameToShapeMap": null
+  },
+  {
+    "Name": "spr_airhaz_support",
+    "Width": 128,
+    "Height": 128,
+    "MarginLeft": 0,
+    "MarginRight": 127,
+    "MarginBottom": 55,
+    "MarginTop": 0,
+    "Transparent": false,
+    "Smooth": false,
+    "Preload": false,
+    "BBoxMode": 0,
+    "SepMasks": "AxisAlignedRect",
+    "OriginX": 0,
+    "OriginY": 0,
+    "OriginXWrapper": 0,
+    "OriginYWrapper": 0,
+    "Textures": [
+      {
+        "Texture": "PageItem 20"
+      }
+    ],
+    "CollisionMasks": [],
+    "SVersion": 3,
+    "SSpriteType": "Normal",
+    "GMS2PlaybackSpeed": 30.0,
+    "GMS2PlaybackSpeedType": "FramesPerSecond",
+    "IsSpecialType": true,
+    "SpineVersion": 0,
+    "SpineCacheVersion": 0,
+    "SpineJSON": null,
+    "SpineAtlas": null,
+    "SpineTextures": null,
+    "IsSpineSprite": false,
+    "SpineHasTextureData": true,
+    "IsYYSWFSprite": false,
+    "SWFVersion": 0,
+    "YYSWF": null,
+    "VectorVersion": 0,
+    "VectorShapes": null,
+    "VectorCollisionMaskWidth": 0,
+    "VectorCollisionMaskHeight": 0,
+    "VectorCollisionMaskRLEData": null,
+    "VectorFrameToShapeMap": null
+  },
+  {
+    "Name": "spr_bg_volcano",
+    "Width": 1280,
+    "Height": 720,
+    "MarginLeft": 0,
+    "MarginRight": 1279,
+    "MarginBottom": 719,
+    "MarginTop": 0,
+    "Transparent": false,
+    "Smooth": false,
+    "Preload": false,
+    "BBoxMode": 0,
+    "SepMasks": "AxisAlignedRect",
+    "OriginX": 0,
+    "OriginY": 0,
+    "OriginXWrapper": 0,
+    "OriginYWrapper": 0,
+    "Textures": [
+      {
+        "Texture": "PageItem 1"
+      }
+    ],
+    "CollisionMasks": [],
+    "SVersion": 3,
+    "SSpriteType": "Normal",
+    "GMS2PlaybackSpeed": 30.0,
+    "GMS2PlaybackSpeedType": "FramesPerSecond",
+    "IsSpecialType": true,
+    "SpineVersion": 0,
+    "SpineCacheVersion": 0,
+    "SpineJSON": null,
+    "SpineAtlas": null,
+    "SpineTextures": null,
+    "IsSpineSprite": false,
+    "SpineHasTextureData": true,
+    "IsYYSWFSprite": false,
+    "SWFVersion": 0,
+    "YYSWF": null,
+    "VectorVersion": 0,
+    "VectorShapes": null,
+    "VectorCollisionMaskWidth": 0,
+    "VectorCollisionMaskHeight": 0,
+    "VectorCollisionMaskRLEData": null,
+    "VectorFrameToShapeMap": null
+  },
+  {
+    "Name": "spr_block_neon_blue",
+    "Width": 16,
+    "Height": 16,
+    "MarginLeft": 0,
+    "MarginRight": 15,
+    "MarginBottom": 15,
+    "MarginTop": 0,
+    "Transparent": false,
+    "Smooth": false,
+    "Preload": false,
+    "BBoxMode": 0,
+    "SepMasks": "AxisAlignedRect",
+    "OriginX": 0,
+    "OriginY": 0,
+    "OriginXWrapper": 0,
+    "OriginYWrapper": 0,
+    "Textures": [
+      {
+        "Texture": "PageItem 129"
+      }
+    ],
+    "CollisionMasks": [],
+    "SVersion": 3,
+    "SSpriteType": "Normal",
+    "GMS2PlaybackSpeed": 30.0,
+    "GMS2PlaybackSpeedType": "FramesPerSecond",
+    "IsSpecialType": true,
+    "SpineVersion": 0,
+    "SpineCacheVersion": 0,
+    "SpineJSON": null,
+    "SpineAtlas": null,
+    "SpineTextures": null,
+    "IsSpineSprite": false,
+    "SpineHasTextureData": true,
+    "IsYYSWFSprite": false,
+    "SWFVersion": 0,
+    "YYSWF": null,
+    "VectorVersion": 0,
+    "VectorShapes": null,
+    "VectorCollisionMaskWidth": 0,
+    "VectorCollisionMaskHeight": 0,
+    "VectorCollisionMaskRLEData": null,
+    "VectorFrameToShapeMap": null
+  },
+  {
+    "Name": "spr_block_neon_gold",
+    "Width": 16,
+    "Height": 16,
+    "MarginLeft": 0,
+    "MarginRight": 15,
+    "MarginBottom": 15,
+    "MarginTop": 0,
+    "Transparent": false,
+    "Smooth": false,
+    "Preload": false,
+    "BBoxMode": 0,
+    "SepMasks": "AxisAlignedRect",
+    "OriginX": 0,
+    "OriginY": 0,
+    "OriginXWrapper": 0,
+    "OriginYWrapper": 0,
+    "Textures": [
+      {
+        "Texture": "PageItem 130"
+      }
+    ],
+    "CollisionMasks": [],
+    "SVersion": 3,
+    "SSpriteType": "Normal",
+    "GMS2PlaybackSpeed": 30.0,
+    "GMS2PlaybackSpeedType": "FramesPerSecond",
+    "IsSpecialType": true,
+    "SpineVersion": 0,
+    "SpineCacheVersion": 0,
+    "SpineJSON": null,
+    "SpineAtlas": null,
+    "SpineTextures": null,
+    "IsSpineSprite": false,
+    "SpineHasTextureData": true,
+    "IsYYSWFSprite": false,
+    "SWFVersion": 0,
+    "YYSWF": null,
+    "VectorVersion": 0,
+    "VectorShapes": null,
+    "VectorCollisionMaskWidth": 0,
+    "VectorCollisionMaskHeight": 0,
+    "VectorCollisionMaskRLEData": null,
+    "VectorFrameToShapeMap": null
+  },
+  {
+    "Name": "spr_block_neon_skyblue",
+    "Width": 16,
+    "Height": 16,
+    "MarginLeft": 0,
+    "MarginRight": 15,
+    "MarginBottom": 15,
+    "MarginTop": 0,
+    "Transparent": false,
+    "Smooth": false,
+    "Preload": false,
+    "BBoxMode": 0,
+    "SepMasks": "AxisAlignedRect",
+    "OriginX": 0,
+    "OriginY": 0,
+    "OriginXWrapper": 0,
+    "OriginYWrapper": 0,
+    "Textures": [
+      {
+        "Texture": "PageItem 131"
+      }
+    ],
+    "CollisionMasks": [],
+    "SVersion": 3,
+    "SSpriteType": "Normal",
+    "GMS2PlaybackSpeed": 30.0,
+    "GMS2PlaybackSpeedType": "FramesPerSecond",
+    "IsSpecialType": true,
+    "SpineVersion": 0,
+    "SpineCacheVersion": 0,
+    "SpineJSON": null,
+    "SpineAtlas": null,
+    "SpineTextures": null,
+    "IsSpineSprite": false,
+    "SpineHasTextureData": true,
+    "IsYYSWFSprite": false,
+    "SWFVersion": 0,
+    "YYSWF": null,
+    "VectorVersion": 0,
+    "VectorShapes": null,
+    "VectorCollisionMaskWidth": 0,
+    "VectorCollisionMaskHeight": 0,
+    "VectorCollisionMaskRLEData": null,
+    "VectorFrameToShapeMap": null
+  },
+  {
+    "Name": "spr_deco_tree_cluster",
+    "Width": 128,
+    "Height": 128,
+    "MarginLeft": 0,
+    "MarginRight": 127,
+    "MarginBottom": 127,
+    "MarginTop": 38,
+    "Transparent": false,
+    "Smooth": false,
+    "Preload": false,
+    "BBoxMode": 0,
+    "SepMasks": "AxisAlignedRect",
+    "OriginX": 64,
+    "OriginY": 128,
+    "OriginXWrapper": 64,
+    "OriginYWrapper": 128,
+    "Textures": [
+      {
+        "Texture": "PageItem 8"
+      }
+    ],
+    "CollisionMasks": [],
+    "SVersion": 3,
+    "SSpriteType": "Normal",
+    "GMS2PlaybackSpeed": 30.0,
+    "GMS2PlaybackSpeedType": "FramesPerSecond",
+    "IsSpecialType": true,
+    "SpineVersion": 0,
+    "SpineCacheVersion": 0,
+    "SpineJSON": null,
+    "SpineAtlas": null,
+    "SpineTextures": null,
+    "IsSpineSprite": false,
+    "SpineHasTextureData": true,
+    "IsYYSWFSprite": false,
+    "SWFVersion": 0,
+    "YYSWF": null,
+    "VectorVersion": 0,
+    "VectorShapes": null,
+    "VectorCollisionMaskWidth": 0,
+    "VectorCollisionMaskHeight": 0,
+    "VectorCollisionMaskRLEData": null,
+    "VectorFrameToShapeMap": null
+  },
+  {
+    "Name": "spr_deco_tree_tall",
+    "Width": 128,
+    "Height": 256,
+    "MarginLeft": 1,
+    "MarginRight": 126,
+    "MarginBottom": 255,
+    "MarginTop": 29,
+    "Transparent": false,
+    "Smooth": false,
+    "Preload": false,
+    "BBoxMode": 0,
+    "SepMasks": "AxisAlignedRect",
+    "OriginX": 64,
+    "OriginY": 256,
+    "OriginXWrapper": 64,
+    "OriginYWrapper": 256,
+    "Textures": [
+      {
+        "Texture": "PageItem 2"
+      }
+    ],
+    "CollisionMasks": [],
+    "SVersion": 3,
+    "SSpriteType": "Normal",
+    "GMS2PlaybackSpeed": 30.0,
+    "GMS2PlaybackSpeedType": "FramesPerSecond",
+    "IsSpecialType": true,
+    "SpineVersion": 0,
+    "SpineCacheVersion": 0,
+    "SpineJSON": null,
+    "SpineAtlas": null,
+    "SpineTextures": null,
+    "IsSpineSprite": false,
+    "SpineHasTextureData": true,
+    "IsYYSWFSprite": false,
+    "SWFVersion": 0,
+    "YYSWF": null,
+    "VectorVersion": 0,
+    "VectorShapes": null,
+    "VectorCollisionMaskWidth": 0,
+    "VectorCollisionMaskHeight": 0,
+    "VectorCollisionMaskRLEData": null,
+    "VectorFrameToShapeMap": null
+  },
+  {
+    "Name": "spr_deco_volcano",
+    "Width": 128,
+    "Height": 128,
+    "MarginLeft": 0,
+    "MarginRight": 127,
+    "MarginBottom": 127,
+    "MarginTop": 52,
+    "Transparent": false,
+    "Smooth": false,
+    "Preload": false,
+    "BBoxMode": 0,
+    "SepMasks": "AxisAlignedRect",
+    "OriginX": 64,
+    "OriginY": 128,
+    "OriginXWrapper": 64,
+    "OriginYWrapper": 128,
+    "Textures": [
+      {
+        "Texture": "PageItem 9"
+      }
+    ],
+    "CollisionMasks": [],
+    "SVersion": 3,
+    "SSpriteType": "Normal",
+    "GMS2PlaybackSpeed": 30.0,
+    "GMS2PlaybackSpeedType": "FramesPerSecond",
+    "IsSpecialType": true,
+    "SpineVersion": 0,
+    "SpineCacheVersion": 0,
+    "SpineJSON": null,
+    "SpineAtlas": null,
+    "SpineTextures": null,
+    "IsSpineSprite": false,
+    "SpineHasTextureData": true,
+    "IsYYSWFSprite": false,
+    "SWFVersion": 0,
+    "YYSWF": null,
+    "VectorVersion": 0,
+    "VectorShapes": null,
+    "VectorCollisionMaskWidth": 0,
+    "VectorCollisionMaskHeight": 0,
+    "VectorCollisionMaskRLEData": null,
+    "VectorFrameToShapeMap": null
+  },
+  {
+    "Name": "spr_lava_bottom_left",
+    "Width": 128,
+    "Height": 128,
+    "MarginLeft": 0,
+    "MarginRight": 127,
+    "MarginBottom": 127,
+    "MarginTop": 0,
+    "Transparent": false,
+    "Smooth": false,
+    "Preload": false,
+    "BBoxMode": 0,
+    "SepMasks": "AxisAlignedRect",
+    "OriginX": 0,
+    "OriginY": 0,
+    "OriginXWrapper": 0,
+    "OriginYWrapper": 0,
+    "Textures": [
+      {
+        "Texture": "PageItem 3"
+      }
+    ],
+    "CollisionMasks": [],
+    "SVersion": 3,
+    "SSpriteType": "Normal",
+    "GMS2PlaybackSpeed": 30.0,
+    "GMS2PlaybackSpeedType": "FramesPerSecond",
+    "IsSpecialType": true,
+    "SpineVersion": 0,
+    "SpineCacheVersion": 0,
+    "SpineJSON": null,
+    "SpineAtlas": null,
+    "SpineTextures": null,
+    "IsSpineSprite": false,
+    "SpineHasTextureData": true,
+    "IsYYSWFSprite": false,
+    "SWFVersion": 0,
+    "YYSWF": null,
+    "VectorVersion": 0,
+    "VectorShapes": null,
+    "VectorCollisionMaskWidth": 0,
+    "VectorCollisionMaskHeight": 0,
+    "VectorCollisionMaskRLEData": null,
+    "VectorFrameToShapeMap": null
+  },
+  {
+    "Name": "spr_lava_bottom_mid",
+    "Width": 128,
+    "Height": 128,
+    "MarginLeft": 0,
+    "MarginRight": 127,
+    "MarginBottom": 127,
+    "MarginTop": 0,
+    "Transparent": false,
+    "Smooth": false,
+    "Preload": false,
+    "BBoxMode": 0,
+    "SepMasks": "AxisAlignedRect",
+    "OriginX": 0,
+    "OriginY": 0,
+    "OriginXWrapper": 0,
+    "OriginYWrapper": 0,
+    "Textures": [
+      {
+        "Texture": "PageItem 4"
+      }
+    ],
+    "CollisionMasks": [],
+    "SVersion": 3,
+    "SSpriteType": "Normal",
+    "GMS2PlaybackSpeed": 30.0,
+    "GMS2PlaybackSpeedType": "FramesPerSecond",
+    "IsSpecialType": true,
+    "SpineVersion": 0,
+    "SpineCacheVersion": 0,
+    "SpineJSON": null,
+    "SpineAtlas": null,
+    "SpineTextures": null,
+    "IsSpineSprite": false,
+    "SpineHasTextureData": true,
+    "IsYYSWFSprite": false,
+    "SWFVersion": 0,
+    "YYSWF": null,
+    "VectorVersion": 0,
+    "VectorShapes": null,
+    "VectorCollisionMaskWidth": 0,
+    "VectorCollisionMaskHeight": 0,
+    "VectorCollisionMaskRLEData": null,
+    "VectorFrameToShapeMap": null
+  },
+  {
+    "Name": "spr_lava_bottom_right",
+    "Width": 128,
+    "Height": 128,
+    "MarginLeft": 0,
+    "MarginRight": 127,
+    "MarginBottom": 127,
+    "MarginTop": 0,
+    "Transparent": false,
+    "Smooth": false,
+    "Preload": false,
+    "BBoxMode": 0,
+    "SepMasks": "AxisAlignedRect",
+    "OriginX": 0,
+    "OriginY": 0,
+    "OriginXWrapper": 0,
+    "OriginYWrapper": 0,
+    "Textures": [
+      {
+        "Texture": "PageItem 5"
+      }
+    ],
+    "CollisionMasks": [],
+    "SVersion": 3,
+    "SSpriteType": "Normal",
+    "GMS2PlaybackSpeed": 30.0,
+    "GMS2PlaybackSpeedType": "FramesPerSecond",
+    "IsSpecialType": true,
+    "SpineVersion": 0,
+    "SpineCacheVersion": 0,
+    "SpineJSON": null,
+    "SpineAtlas": null,
+    "SpineTextures": null,
+    "IsSpineSprite": false,
+    "SpineHasTextureData": true,
+    "IsYYSWFSprite": false,
+    "SWFVersion": 0,
+    "YYSWF": null,
+    "VectorVersion": 0,
+    "VectorShapes": null,
+    "VectorCollisionMaskWidth": 0,
+    "VectorCollisionMaskHeight": 0,
+    "VectorCollisionMaskRLEData": null,
+    "VectorFrameToShapeMap": null
+  },
+  {
+    "Name": "spr_lava_fill",
+    "Width": 128,
+    "Height": 128,
+    "MarginLeft": 0,
+    "MarginRight": 127,
+    "MarginBottom": 127,
+    "MarginTop": 0,
+    "Transparent": false,
+    "Smooth": false,
+    "Preload": false,
+    "BBoxMode": 0,
+    "SepMasks": "AxisAlignedRect",
+    "OriginX": 0,
+    "OriginY": 0,
+    "OriginXWrapper": 0,
+    "OriginYWrapper": 0,
+    "Textures": [
+      {
+        "Texture": "PageItem 6"
+      }
+    ],
+    "CollisionMasks": [],
+    "SVersion": 3,
+    "SSpriteType": "Normal",
+    "GMS2PlaybackSpeed": 30.0,
+    "GMS2PlaybackSpeedType": "FramesPerSecond",
+    "IsSpecialType": true,
+    "SpineVersion": 0,
+    "SpineCacheVersion": 0,
+    "SpineJSON": null,
+    "SpineAtlas": null,
+    "SpineTextures": null,
+    "IsSpineSprite": false,
+    "SpineHasTextureData": true,
+    "IsYYSWFSprite": false,
+    "SWFVersion": 0,
+    "YYSWF": null,
+    "VectorVersion": 0,
+    "VectorShapes": null,
+    "VectorCollisionMaskWidth": 0,
+    "VectorCollisionMaskHeight": 0,
+    "VectorCollisionMaskRLEData": null,
+    "VectorFrameToShapeMap": null
+  },
+  {
+    "Name": "spr_lava_surface",
+    "Width": 128,
+    "Height": 128,
+    "MarginLeft": 0,
+    "MarginRight": 127,
+    "MarginBottom": 127,
+    "MarginTop": 31,
+    "Transparent": false,
+    "Smooth": false,
+    "Preload": false,
+    "BBoxMode": 0,
+    "SepMasks": "AxisAlignedRect",
+    "OriginX": 0,
+    "OriginY": 0,
+    "OriginXWrapper": 0,
+    "OriginYWrapper": 0,
+    "Textures": [
+      {
+        "Texture": "PageItem 7"
+      }
+    ],
+    "CollisionMasks": [],
+    "SVersion": 3,
+    "SSpriteType": "Normal",
+    "GMS2PlaybackSpeed": 30.0,
+    "GMS2PlaybackSpeedType": "FramesPerSecond",
+    "IsSpecialType": true,
+    "SpineVersion": 0,
+    "SpineCacheVersion": 0,
+    "SpineJSON": null,
+    "SpineAtlas": null,
+    "SpineTextures": null,
+    "IsSpineSprite": false,
+    "SpineHasTextureData": true,
+    "IsYYSWFSprite": false,
+    "SWFVersion": 0,
+    "YYSWF": null,
+    "VectorVersion": 0,
+    "VectorShapes": null,
+    "VectorCollisionMaskWidth": 0,
+    "VectorCollisionMaskHeight": 0,
+    "VectorCollisionMaskRLEData": null,
+    "VectorFrameToShapeMap": null
+  },
+  {
+    "Name": "spr_neon_brick",
+    "Width": 16,
+    "Height": 16,
+    "MarginLeft": 0,
+    "MarginRight": 15,
+    "MarginBottom": 15,
+    "MarginTop": 0,
+    "Transparent": false,
+    "Smooth": false,
+    "Preload": false,
+    "BBoxMode": 0,
+    "SepMasks": "AxisAlignedRect",
+    "OriginX": 0,
+    "OriginY": 0,
+    "OriginXWrapper": 0,
+    "OriginYWrapper": 0,
+    "Textures": [
+      {
+        "Texture": "PageItem 132"
+      }
+    ],
+    "CollisionMasks": [],
+    "SVersion": 3,
+    "SSpriteType": "Normal",
+    "GMS2PlaybackSpeed": 30.0,
+    "GMS2PlaybackSpeedType": "FramesPerSecond",
+    "IsSpecialType": true,
+    "SpineVersion": 0,
+    "SpineCacheVersion": 0,
+    "SpineJSON": null,
+    "SpineAtlas": null,
+    "SpineTextures": null,
+    "IsSpineSprite": false,
+    "SpineHasTextureData": true,
+    "IsYYSWFSprite": false,
+    "SWFVersion": 0,
+    "YYSWF": null,
+    "VectorVersion": 0,
+    "VectorShapes": null,
+    "VectorCollisionMaskWidth": 0,
+    "VectorCollisionMaskHeight": 0,
+    "VectorCollisionMaskRLEData": null,
+    "VectorFrameToShapeMap": null
+  },
+  {
+    "Name": "spr_samurai_mid_attack1",
+    "Width": 200,
+    "Height": 200,
+    "MarginLeft": 69,
+    "MarginRight": 188,
+    "MarginBottom": 121,
+    "MarginTop": 53,
+    "Transparent": false,
+    "Smooth": false,
+    "Preload": false,
+    "BBoxMode": 0,
+    "SepMasks": "AxisAlignedRect",
+    "OriginX": 100,
+    "OriginY": 200,
+    "OriginXWrapper": 100,
+    "OriginYWrapper": 200,
+    "Textures": [
+      {
+        "Texture": "PageItem 68"
+      },
+      {
+        "Texture": "PageItem 45"
+      },
+      {
+        "Texture": "PageItem 67"
+      },
+      {
+        "Texture": "PageItem 66"
+      },
+      {
+        "Texture": "PageItem 14"
+      },
+      {
+        "Texture": "PageItem 15"
+      }
+    ],
+    "CollisionMasks": [],
+    "SVersion": 3,
+    "SSpriteType": "Normal",
+    "GMS2PlaybackSpeed": 30.0,
+    "GMS2PlaybackSpeedType": "FramesPerSecond",
+    "IsSpecialType": true,
+    "SpineVersion": 0,
+    "SpineCacheVersion": 0,
+    "SpineJSON": null,
+    "SpineAtlas": null,
+    "SpineTextures": null,
+    "IsSpineSprite": false,
+    "SpineHasTextureData": true,
+    "IsYYSWFSprite": false,
+    "SWFVersion": 0,
+    "YYSWF": null,
+    "VectorVersion": 0,
+    "VectorShapes": null,
+    "VectorCollisionMaskWidth": 0,
+    "VectorCollisionMaskHeight": 0,
+    "VectorCollisionMaskRLEData": null,
+    "VectorFrameToShapeMap": null
+  },
+  {
+    "Name": "spr_samurai_mid_attack2",
+    "Width": 200,
+    "Height": 200,
+    "MarginLeft": 82,
+    "MarginRight": 193,
+    "MarginBottom": 121,
+    "MarginTop": 59,
+    "Transparent": false,
+    "Smooth": false,
+    "Preload": false,
+    "BBoxMode": 0,
+    "SepMasks": "AxisAlignedRect",
+    "OriginX": 100,
+    "OriginY": 200,
+    "OriginXWrapper": 100,
+    "OriginYWrapper": 200,
+    "Textures": [
+      {
+        "Texture": "PageItem 27"
+      },
+      {
+        "Texture": "PageItem 28"
+      },
+      {
+        "Texture": "PageItem 29"
+      },
+      {
+        "Texture": "PageItem 30"
+      },
+      {
+        "Texture": "PageItem 21"
+      },
+      {
+        "Texture": "PageItem 24"
+      }
+    ],
+    "CollisionMasks": [],
+    "SVersion": 3,
+    "SSpriteType": "Normal",
+    "GMS2PlaybackSpeed": 30.0,
+    "GMS2PlaybackSpeedType": "FramesPerSecond",
+    "IsSpecialType": true,
+    "SpineVersion": 0,
+    "SpineCacheVersion": 0,
+    "SpineJSON": null,
+    "SpineAtlas": null,
+    "SpineTextures": null,
+    "IsSpineSprite": false,
+    "SpineHasTextureData": true,
+    "IsYYSWFSprite": false,
+    "SWFVersion": 0,
+    "YYSWF": null,
+    "VectorVersion": 0,
+    "VectorShapes": null,
+    "VectorCollisionMaskWidth": 0,
+    "VectorCollisionMaskHeight": 0,
+    "VectorCollisionMaskRLEData": null,
+    "VectorFrameToShapeMap": null
+  },
+  {
+    "Name": "spr_samurai_mid_death",
+    "Width": 200,
+    "Height": 200,
+    "MarginLeft": 69,
+    "MarginRight": 119,
+    "MarginBottom": 121,
+    "MarginTop": 69,
+    "Transparent": false,
+    "Smooth": false,
+    "Preload": false,
+    "BBoxMode": 0,
+    "SepMasks": "AxisAlignedRect",
+    "OriginX": 100,
+    "OriginY": 200,
+    "OriginXWrapper": 100,
+    "OriginYWrapper": 200,
+    "Textures": [
+      {
+        "Texture": "PageItem 48"
+      },
+      {
+        "Texture": "PageItem 90"
+      },
+      {
+        "Texture": "PageItem 51"
+      },
+      {
+        "Texture": "PageItem 87"
+      },
+      {
+        "Texture": "PageItem 96"
+      },
+      {
+        "Texture": "PageItem 93"
+      }
+    ],
+    "CollisionMasks": [],
+    "SVersion": 3,
+    "SSpriteType": "Normal",
+    "GMS2PlaybackSpeed": 30.0,
+    "GMS2PlaybackSpeedType": "FramesPerSecond",
+    "IsSpecialType": true,
+    "SpineVersion": 0,
+    "SpineCacheVersion": 0,
+    "SpineJSON": null,
+    "SpineAtlas": null,
+    "SpineTextures": null,
+    "IsSpineSprite": false,
+    "SpineHasTextureData": true,
+    "IsYYSWFSprite": false,
+    "SWFVersion": 0,
+    "YYSWF": null,
+    "VectorVersion": 0,
+    "VectorShapes": null,
+    "VectorCollisionMaskWidth": 0,
+    "VectorCollisionMaskHeight": 0,
+    "VectorCollisionMaskRLEData": null,
+    "VectorFrameToShapeMap": null
+  },
+  {
+    "Name": "spr_samurai_mid_fall",
+    "Width": 200,
+    "Height": 200,
+    "MarginLeft": 69,
+    "MarginRight": 116,
+    "MarginBottom": 121,
+    "MarginTop": 66,
+    "Transparent": false,
+    "Smooth": false,
+    "Preload": false,
+    "BBoxMode": 0,
+    "SepMasks": "AxisAlignedRect",
+    "OriginX": 100,
+    "OriginY": 200,
+    "OriginXWrapper": 100,
+    "OriginYWrapper": 200,
+    "Textures": [
+      {
+        "Texture": "PageItem 42"
+      },
+      {
+        "Texture": "PageItem 39"
+      }
+    ],
+    "CollisionMasks": [],
+    "SVersion": 3,
+    "SSpriteType": "Normal",
+    "GMS2PlaybackSpeed": 30.0,
+    "GMS2PlaybackSpeedType": "FramesPerSecond",
+    "IsSpecialType": true,
+    "SpineVersion": 0,
+    "SpineCacheVersion": 0,
+    "SpineJSON": null,
+    "SpineAtlas": null,
+    "SpineTextures": null,
+    "IsSpineSprite": false,
+    "SpineHasTextureData": true,
+    "IsYYSWFSprite": false,
+    "SWFVersion": 0,
+    "YYSWF": null,
+    "VectorVersion": 0,
+    "VectorShapes": null,
+    "VectorCollisionMaskWidth": 0,
+    "VectorCollisionMaskHeight": 0,
+    "VectorCollisionMaskRLEData": null,
+    "VectorFrameToShapeMap": null
+  },
+  null,
+  {
+    "Name": "spr_samurai_mid_idle",
+    "Width": 200,
+    "Height": 200,
+    "MarginLeft": 76,
+    "MarginRight": 112,
+    "MarginBottom": 121,
+    "MarginTop": 70,
+    "Transparent": false,
+    "Smooth": false,
+    "Preload": false,
+    "BBoxMode": 0,
+    "SepMasks": "AxisAlignedRect",
+    "OriginX": 100,
+    "OriginY": 200,
+    "OriginXWrapper": 100,
+    "OriginYWrapper": 200,
+    "Textures": [
+      {
+        "Texture": "PageItem 105"
+      },
+      {
+        "Texture": "PageItem 111"
+      },
+      {
+        "Texture": "PageItem 117"
+      },
+      {
+        "Texture": "PageItem 119"
+      },
+      {
+        "Texture": "PageItem 126"
+      },
+      {
+        "Texture": "PageItem 118"
+      },
+      {
+        "Texture": "PageItem 112"
+      },
+      {
+        "Texture": "PageItem 106"
+      }
+    ],
+    "CollisionMasks": [],
+    "SVersion": 3,
+    "SSpriteType": "Normal",
+    "GMS2PlaybackSpeed": 30.0,
+    "GMS2PlaybackSpeedType": "FramesPerSecond",
+    "IsSpecialType": true,
+    "SpineVersion": 0,
+    "SpineCacheVersion": 0,
+    "SpineJSON": null,
+    "SpineAtlas": null,
+    "SpineTextures": null,
+    "IsSpineSprite": false,
+    "SpineHasTextureData": true,
+    "IsYYSWFSprite": false,
+    "SWFVersion": 0,
+    "YYSWF": null,
+    "VectorVersion": 0,
+    "VectorShapes": null,
+    "VectorCollisionMaskWidth": 0,
+    "VectorCollisionMaskHeight": 0,
+    "VectorCollisionMaskRLEData": null,
+    "VectorFrameToShapeMap": null
+  },
+  {
+    "Name": "spr_samurai_mid_jump",
+    "Width": 200,
+    "Height": 200,
+    "MarginLeft": 76,
+    "MarginRight": 113,
+    "MarginBottom": 121,
+    "MarginTop": 69,
+    "Transparent": false,
+    "Smooth": false,
+    "Preload": false,
+    "BBoxMode": 0,
+    "SepMasks": "AxisAlignedRect",
+    "OriginX": 100,
+    "OriginY": 200,
+    "OriginXWrapper": 100,
+    "OriginYWrapper": 200,
+    "Textures": [
+      {
+        "Texture": "PageItem 100"
+      },
+      {
+        "Texture": "PageItem 99"
+      }
+    ],
+    "CollisionMasks": [],
+    "SVersion": 3,
+    "SSpriteType": "Normal",
+    "GMS2PlaybackSpeed": 30.0,
+    "GMS2PlaybackSpeedType": "FramesPerSecond",
+    "IsSpecialType": true,
+    "SpineVersion": 0,
+    "SpineCacheVersion": 0,
+    "SpineJSON": null,
+    "SpineAtlas": null,
+    "SpineTextures": null,
+    "IsSpineSprite": false,
+    "SpineHasTextureData": true,
+    "IsYYSWFSprite": false,
+    "SWFVersion": 0,
+    "YYSWF": null,
+    "VectorVersion": 0,
+    "VectorShapes": null,
+    "VectorCollisionMaskWidth": 0,
+    "VectorCollisionMaskHeight": 0,
+    "VectorCollisionMaskRLEData": null,
+    "VectorFrameToShapeMap": null
+  },
+  {
+    "Name": "spr_samurai_mid_run",
+    "Width": 200,
+    "Height": 200,
+    "MarginLeft": 72,
+    "MarginRight": 117,
+    "MarginBottom": 121,
+    "MarginTop": 74,
+    "Transparent": false,
+    "Smooth": false,
+    "Preload": false,
+    "BBoxMode": 0,
+    "SepMasks": "AxisAlignedRect",
+    "OriginX": 100,
+    "OriginY": 200,
+    "OriginXWrapper": 100,
+    "OriginYWrapper": 200,
+    "Textures": [
+      {
+        "Texture": "PageItem 78"
+      },
+      {
+        "Texture": "PageItem 76"
+      },
+      {
+        "Texture": "PageItem 75"
+      },
+      {
+        "Texture": "PageItem 53"
+      },
+      {
+        "Texture": "PageItem 55"
+      },
+      {
+        "Texture": "PageItem 77"
+      },
+      {
+        "Texture": "PageItem 52"
+      },
+      {
+        "Texture": "PageItem 54"
+      }
+    ],
+    "CollisionMasks": [],
+    "SVersion": 3,
+    "SSpriteType": "Normal",
+    "GMS2PlaybackSpeed": 30.0,
+    "GMS2PlaybackSpeedType": "FramesPerSecond",
+    "IsSpecialType": true,
+    "SpineVersion": 0,
+    "SpineCacheVersion": 0,
+    "SpineJSON": null,
+    "SpineAtlas": null,
+    "SpineTextures": null,
+    "IsSpineSprite": false,
+    "SpineHasTextureData": true,
+    "IsYYSWFSprite": false,
+    "SWFVersion": 0,
+    "YYSWF": null,
+    "VectorVersion": 0,
+    "VectorShapes": null,
+    "VectorCollisionMaskWidth": 0,
+    "VectorCollisionMaskHeight": 0,
+    "VectorCollisionMaskRLEData": null,
+    "VectorFrameToShapeMap": null
+  },
+  {
+    "Name": "spr_samurai_neon_attack1",
+    "Width": 200,
+    "Height": 200,
+    "MarginLeft": 69,
+    "MarginRight": 188,
+    "MarginBottom": 121,
+    "MarginTop": 53,
+    "Transparent": false,
+    "Smooth": false,
+    "Preload": false,
+    "BBoxMode": 0,
+    "SepMasks": "AxisAlignedRect",
+    "OriginX": 100,
+    "OriginY": 200,
+    "OriginXWrapper": 100,
+    "OriginYWrapper": 200,
+    "Textures": [
+      {
+        "Texture": "PageItem 71"
+      },
+      {
+        "Texture": "PageItem 46"
+      },
+      {
+        "Texture": "PageItem 70"
+      },
+      {
+        "Texture": "PageItem 69"
+      },
+      {
+        "Texture": "PageItem 17"
+      },
+      {
+        "Texture": "PageItem 16"
+      }
+    ],
+    "CollisionMasks": [],
+    "SVersion": 3,
+    "SSpriteType": "Normal",
+    "GMS2PlaybackSpeed": 30.0,
+    "GMS2PlaybackSpeedType": "FramesPerSecond",
+    "IsSpecialType": true,
+    "SpineVersion": 0,
+    "SpineCacheVersion": 0,
+    "SpineJSON": null,
+    "SpineAtlas": null,
+    "SpineTextures": null,
+    "IsSpineSprite": false,
+    "SpineHasTextureData": true,
+    "IsYYSWFSprite": false,
+    "SWFVersion": 0,
+    "YYSWF": null,
+    "VectorVersion": 0,
+    "VectorShapes": null,
+    "VectorCollisionMaskWidth": 0,
+    "VectorCollisionMaskHeight": 0,
+    "VectorCollisionMaskRLEData": null,
+    "VectorFrameToShapeMap": null
+  },
+  {
+    "Name": "spr_samurai_neon_attack2",
+    "Width": 200,
+    "Height": 200,
+    "MarginLeft": 82,
+    "MarginRight": 193,
+    "MarginBottom": 121,
+    "MarginTop": 59,
+    "Transparent": false,
+    "Smooth": false,
+    "Preload": false,
+    "BBoxMode": 0,
+    "SepMasks": "AxisAlignedRect",
+    "OriginX": 100,
+    "OriginY": 200,
+    "OriginXWrapper": 100,
+    "OriginYWrapper": 200,
+    "Textures": [
+      {
+        "Texture": "PageItem 32"
+      },
+      {
+        "Texture": "PageItem 31"
+      },
+      {
+        "Texture": "PageItem 34"
+      },
+      {
+        "Texture": "PageItem 33"
+      },
+      {
+        "Texture": "PageItem 22"
+      },
+      {
+        "Texture": "PageItem 25"
+      }
+    ],
+    "CollisionMasks": [],
+    "SVersion": 3,
+    "SSpriteType": "Normal",
+    "GMS2PlaybackSpeed": 30.0,
+    "GMS2PlaybackSpeedType": "FramesPerSecond",
+    "IsSpecialType": true,
+    "SpineVersion": 0,
+    "SpineCacheVersion": 0,
+    "SpineJSON": null,
+    "SpineAtlas": null,
+    "SpineTextures": null,
+    "IsSpineSprite": false,
+    "SpineHasTextureData": true,
+    "IsYYSWFSprite": false,
+    "SWFVersion": 0,
+    "YYSWF": null,
+    "VectorVersion": 0,
+    "VectorShapes": null,
+    "VectorCollisionMaskWidth": 0,
+    "VectorCollisionMaskHeight": 0,
+    "VectorCollisionMaskRLEData": null,
+    "VectorFrameToShapeMap": null
+  },
+  {
+    "Name": "spr_samurai_neon_death",
+    "Width": 200,
+    "Height": 200,
+    "MarginLeft": 69,
+    "MarginRight": 119,
+    "MarginBottom": 121,
+    "MarginTop": 69,
+    "Transparent": false,
+    "Smooth": false,
+    "Preload": false,
+    "BBoxMode": 0,
+    "SepMasks": "AxisAlignedRect",
+    "OriginX": 100,
+    "OriginY": 200,
+    "OriginXWrapper": 100,
+    "OriginYWrapper": 200,
+    "Textures": [
+      {
+        "Texture": "PageItem 49"
+      },
+      {
+        "Texture": "PageItem 91"
+      },
+      {
+        "Texture": "PageItem 56"
+      },
+      {
+        "Texture": "PageItem 88"
+      },
+      {
+        "Texture": "PageItem 97"
+      },
+      {
+        "Texture": "PageItem 94"
+      }
+    ],
+    "CollisionMasks": [],
+    "SVersion": 3,
+    "SSpriteType": "Normal",
+    "GMS2PlaybackSpeed": 30.0,
+    "GMS2PlaybackSpeedType": "FramesPerSecond",
+    "IsSpecialType": true,
+    "SpineVersion": 0,
+    "SpineCacheVersion": 0,
+    "SpineJSON": null,
+    "SpineAtlas": null,
+    "SpineTextures": null,
+    "IsSpineSprite": false,
+    "SpineHasTextureData": true,
+    "IsYYSWFSprite": false,
+    "SWFVersion": 0,
+    "YYSWF": null,
+    "VectorVersion": 0,
+    "VectorShapes": null,
+    "VectorCollisionMaskWidth": 0,
+    "VectorCollisionMaskHeight": 0,
+    "VectorCollisionMaskRLEData": null,
+    "VectorFrameToShapeMap": null
+  },
+  {
+    "Name": "spr_samurai_neon_fall",
+    "Width": 200,
+    "Height": 200,
+    "MarginLeft": 69,
+    "MarginRight": 116,
+    "MarginBottom": 121,
+    "MarginTop": 66,
+    "Transparent": false,
+    "Smooth": false,
+    "Preload": false,
+    "BBoxMode": 0,
+    "SepMasks": "AxisAlignedRect",
+    "OriginX": 100,
+    "OriginY": 200,
+    "OriginXWrapper": 100,
+    "OriginYWrapper": 200,
+    "Textures": [
+      {
+        "Texture": "PageItem 43"
+      },
+      {
+        "Texture": "PageItem 40"
+      }
+    ],
+    "CollisionMasks": [],
+    "SVersion": 3,
+    "SSpriteType": "Normal",
+    "GMS2PlaybackSpeed": 30.0,
+    "GMS2PlaybackSpeedType": "FramesPerSecond",
+    "IsSpecialType": true,
+    "SpineVersion": 0,
+    "SpineCacheVersion": 0,
+    "SpineJSON": null,
+    "SpineAtlas": null,
+    "SpineTextures": null,
+    "IsSpineSprite": false,
+    "SpineHasTextureData": true,
+    "IsYYSWFSprite": false,
+    "SWFVersion": 0,
+    "YYSWF": null,
+    "VectorVersion": 0,
+    "VectorShapes": null,
+    "VectorCollisionMaskWidth": 0,
+    "VectorCollisionMaskHeight": 0,
+    "VectorCollisionMaskRLEData": null,
+    "VectorFrameToShapeMap": null
+  },
+  null,
+  {
+    "Name": "spr_samurai_neon_idle",
+    "Width": 200,
+    "Height": 200,
+    "MarginLeft": 76,
+    "MarginRight": 112,
+    "MarginBottom": 121,
+    "MarginTop": 70,
+    "Transparent": false,
+    "Smooth": false,
+    "Preload": false,
+    "BBoxMode": 0,
+    "SepMasks": "AxisAlignedRect",
+    "OriginX": 100,
+    "OriginY": 200,
+    "OriginXWrapper": 100,
+    "OriginYWrapper": 200,
+    "Textures": [
+      {
+        "Texture": "PageItem 108"
+      },
+      {
+        "Texture": "PageItem 113"
+      },
+      {
+        "Texture": "PageItem 120"
+      },
+      {
+        "Texture": "PageItem 121"
+      },
+      {
+        "Texture": "PageItem 127"
+      },
+      {
+        "Texture": "PageItem 122"
+      },
+      {
+        "Texture": "PageItem 114"
+      },
+      {
+        "Texture": "PageItem 107"
+      }
+    ],
+    "CollisionMasks": [],
+    "SVersion": 3,
+    "SSpriteType": "Normal",
+    "GMS2PlaybackSpeed": 30.0,
+    "GMS2PlaybackSpeedType": "FramesPerSecond",
+    "IsSpecialType": true,
+    "SpineVersion": 0,
+    "SpineCacheVersion": 0,
+    "SpineJSON": null,
+    "SpineAtlas": null,
+    "SpineTextures": null,
+    "IsSpineSprite": false,
+    "SpineHasTextureData": true,
+    "IsYYSWFSprite": false,
+    "SWFVersion": 0,
+    "YYSWF": null,
+    "VectorVersion": 0,
+    "VectorShapes": null,
+    "VectorCollisionMaskWidth": 0,
+    "VectorCollisionMaskHeight": 0,
+    "VectorCollisionMaskRLEData": null,
+    "VectorFrameToShapeMap": null
+  },
+  {
+    "Name": "spr_samurai_neon_jump",
+    "Width": 200,
+    "Height": 200,
+    "MarginLeft": 76,
+    "MarginRight": 113,
+    "MarginBottom": 121,
+    "MarginTop": 69,
+    "Transparent": false,
+    "Smooth": false,
+    "Preload": false,
+    "BBoxMode": 0,
+    "SepMasks": "AxisAlignedRect",
+    "OriginX": 100,
+    "OriginY": 200,
+    "OriginXWrapper": 100,
+    "OriginYWrapper": 200,
+    "Textures": [
+      {
+        "Texture": "PageItem 102"
+      },
+      {
+        "Texture": "PageItem 101"
+      }
+    ],
+    "CollisionMasks": [],
+    "SVersion": 3,
+    "SSpriteType": "Normal",
+    "GMS2PlaybackSpeed": 30.0,
+    "GMS2PlaybackSpeedType": "FramesPerSecond",
+    "IsSpecialType": true,
+    "SpineVersion": 0,
+    "SpineCacheVersion": 0,
+    "SpineJSON": null,
+    "SpineAtlas": null,
+    "SpineTextures": null,
+    "IsSpineSprite": false,
+    "SpineHasTextureData": true,
+    "IsYYSWFSprite": false,
+    "SWFVersion": 0,
+    "YYSWF": null,
+    "VectorVersion": 0,
+    "VectorShapes": null,
+    "VectorCollisionMaskWidth": 0,
+    "VectorCollisionMaskHeight": 0,
+    "VectorCollisionMaskRLEData": null,
+    "VectorFrameToShapeMap": null
+  },
+  {
+    "Name": "spr_samurai_neon_run",
+    "Width": 200,
+    "Height": 200,
+    "MarginLeft": 72,
+    "MarginRight": 117,
+    "MarginBottom": 121,
+    "MarginTop": 74,
+    "Transparent": false,
+    "Smooth": false,
+    "Preload": false,
+    "BBoxMode": 0,
+    "SepMasks": "AxisAlignedRect",
+    "OriginX": 100,
+    "OriginY": 200,
+    "OriginXWrapper": 100,
+    "OriginYWrapper": 200,
+    "Textures": [
+      {
+        "Texture": "PageItem 81"
+      },
+      {
+        "Texture": "PageItem 82"
+      },
+      {
+        "Texture": "PageItem 79"
+      },
+      {
+        "Texture": "PageItem 58"
+      },
+      {
+        "Texture": "PageItem 60"
+      },
+      {
+        "Texture": "PageItem 80"
+      },
+      {
+        "Texture": "PageItem 59"
+      },
+      {
+        "Texture": "PageItem 57"
+      }
+    ],
+    "CollisionMasks": [],
+    "SVersion": 3,
+    "SSpriteType": "Normal",
+    "GMS2PlaybackSpeed": 30.0,
+    "GMS2PlaybackSpeedType": "FramesPerSecond",
+    "IsSpecialType": true,
+    "SpineVersion": 0,
+    "SpineCacheVersion": 0,
+    "SpineJSON": null,
+    "SpineAtlas": null,
+    "SpineTextures": null,
+    "IsSpineSprite": false,
+    "SpineHasTextureData": true,
+    "IsYYSWFSprite": false,
+    "SWFVersion": 0,
+    "YYSWF": null,
+    "VectorVersion": 0,
+    "VectorShapes": null,
+    "VectorCollisionMaskWidth": 0,
+    "VectorCollisionMaskHeight": 0,
+    "VectorCollisionMaskRLEData": null,
+    "VectorFrameToShapeMap": null
+  },
+  {
+    "Name": "spr_samurai_red_attack1",
+    "Width": 200,
+    "Height": 200,
+    "MarginLeft": 69,
+    "MarginRight": 188,
+    "MarginBottom": 121,
+    "MarginTop": 53,
+    "Transparent": false,
+    "Smooth": false,
+    "Preload": false,
+    "BBoxMode": 0,
+    "SepMasks": "AxisAlignedRect",
+    "OriginX": 100,
+    "OriginY": 200,
+    "OriginXWrapper": 100,
+    "OriginYWrapper": 200,
+    "Textures": [
+      {
+        "Texture": "PageItem 74"
+      },
+      {
+        "Texture": "PageItem 47"
+      },
+      {
+        "Texture": "PageItem 72"
+      },
+      {
+        "Texture": "PageItem 73"
+      },
+      {
+        "Texture": "PageItem 19"
+      },
+      {
+        "Texture": "PageItem 18"
+      }
+    ],
+    "CollisionMasks": [],
+    "SVersion": 3,
+    "SSpriteType": "Normal",
+    "GMS2PlaybackSpeed": 30.0,
+    "GMS2PlaybackSpeedType": "FramesPerSecond",
+    "IsSpecialType": true,
+    "SpineVersion": 0,
+    "SpineCacheVersion": 0,
+    "SpineJSON": null,
+    "SpineAtlas": null,
+    "SpineTextures": null,
+    "IsSpineSprite": false,
+    "SpineHasTextureData": true,
+    "IsYYSWFSprite": false,
+    "SWFVersion": 0,
+    "YYSWF": null,
+    "VectorVersion": 0,
+    "VectorShapes": null,
+    "VectorCollisionMaskWidth": 0,
+    "VectorCollisionMaskHeight": 0,
+    "VectorCollisionMaskRLEData": null,
+    "VectorFrameToShapeMap": null
+  },
+  {
+    "Name": "spr_samurai_red_attack2",
+    "Width": 200,
+    "Height": 200,
+    "MarginLeft": 82,
+    "MarginRight": 193,
+    "MarginBottom": 121,
+    "MarginTop": 59,
+    "Transparent": false,
+    "Smooth": false,
+    "Preload": false,
+    "BBoxMode": 0,
+    "SepMasks": "AxisAlignedRect",
+    "OriginX": 100,
+    "OriginY": 200,
+    "OriginXWrapper": 100,
+    "OriginYWrapper": 200,
+    "Textures": [
+      {
+        "Texture": "PageItem 35"
+      },
+      {
+        "Texture": "PageItem 36"
+      },
+      {
+        "Texture": "PageItem 38"
+      },
+      {
+        "Texture": "PageItem 37"
+      },
+      {
+        "Texture": "PageItem 23"
+      },
+      {
+        "Texture": "PageItem 26"
+      }
+    ],
+    "CollisionMasks": [],
+    "SVersion": 3,
+    "SSpriteType": "Normal",
+    "GMS2PlaybackSpeed": 30.0,
+    "GMS2PlaybackSpeedType": "FramesPerSecond",
+    "IsSpecialType": true,
+    "SpineVersion": 0,
+    "SpineCacheVersion": 0,
+    "SpineJSON": null,
+    "SpineAtlas": null,
+    "SpineTextures": null,
+    "IsSpineSprite": false,
+    "SpineHasTextureData": true,
+    "IsYYSWFSprite": false,
+    "SWFVersion": 0,
+    "YYSWF": null,
+    "VectorVersion": 0,
+    "VectorShapes": null,
+    "VectorCollisionMaskWidth": 0,
+    "VectorCollisionMaskHeight": 0,
+    "VectorCollisionMaskRLEData": null,
+    "VectorFrameToShapeMap": null
+  },
+  {
+    "Name": "spr_samurai_red_death",
+    "Width": 200,
+    "Height": 200,
+    "MarginLeft": 69,
+    "MarginRight": 119,
+    "MarginBottom": 121,
+    "MarginTop": 69,
+    "Transparent": false,
+    "Smooth": false,
+    "Preload": false,
+    "BBoxMode": 0,
+    "SepMasks": "AxisAlignedRect",
+    "OriginX": 100,
+    "OriginY": 200,
+    "OriginXWrapper": 100,
+    "OriginYWrapper": 200,
+    "Textures": [
+      {
+        "Texture": "PageItem 50"
+      },
+      {
+        "Texture": "PageItem 92"
+      },
+      {
+        "Texture": "PageItem 61"
+      },
+      {
+        "Texture": "PageItem 89"
+      },
+      {
+        "Texture": "PageItem 98"
+      },
+      {
+        "Texture": "PageItem 95"
+      }
+    ],
+    "CollisionMasks": [],
+    "SVersion": 3,
+    "SSpriteType": "Normal",
+    "GMS2PlaybackSpeed": 30.0,
+    "GMS2PlaybackSpeedType": "FramesPerSecond",
+    "IsSpecialType": true,
+    "SpineVersion": 0,
+    "SpineCacheVersion": 0,
+    "SpineJSON": null,
+    "SpineAtlas": null,
+    "SpineTextures": null,
+    "IsSpineSprite": false,
+    "SpineHasTextureData": true,
+    "IsYYSWFSprite": false,
+    "SWFVersion": 0,
+    "YYSWF": null,
+    "VectorVersion": 0,
+    "VectorShapes": null,
+    "VectorCollisionMaskWidth": 0,
+    "VectorCollisionMaskHeight": 0,
+    "VectorCollisionMaskRLEData": null,
+    "VectorFrameToShapeMap": null
+  },
+  {
+    "Name": "spr_samurai_red_fall",
+    "Width": 200,
+    "Height": 200,
+    "MarginLeft": 69,
+    "MarginRight": 116,
+    "MarginBottom": 121,
+    "MarginTop": 66,
+    "Transparent": false,
+    "Smooth": false,
+    "Preload": false,
+    "BBoxMode": 0,
+    "SepMasks": "AxisAlignedRect",
+    "OriginX": 100,
+    "OriginY": 200,
+    "OriginXWrapper": 100,
+    "OriginYWrapper": 200,
+    "Textures": [
+      {
+        "Texture": "PageItem 44"
+      },
+      {
+        "Texture": "PageItem 41"
+      }
+    ],
+    "CollisionMasks": [],
+    "SVersion": 3,
+    "SSpriteType": "Normal",
+    "GMS2PlaybackSpeed": 30.0,
+    "GMS2PlaybackSpeedType": "FramesPerSecond",
+    "IsSpecialType": true,
+    "SpineVersion": 0,
+    "SpineCacheVersion": 0,
+    "SpineJSON": null,
+    "SpineAtlas": null,
+    "SpineTextures": null,
+    "IsSpineSprite": false,
+    "SpineHasTextureData": true,
+    "IsYYSWFSprite": false,
+    "SWFVersion": 0,
+    "YYSWF": null,
+    "VectorVersion": 0,
+    "VectorShapes": null,
+    "VectorCollisionMaskWidth": 0,
+    "VectorCollisionMaskHeight": 0,
+    "VectorCollisionMaskRLEData": null,
+    "VectorFrameToShapeMap": null
+  },
+  null,
+  {
+    "Name": "spr_samurai_red_idle",
+    "Width": 200,
+    "Height": 200,
+    "MarginLeft": 76,
+    "MarginRight": 112,
+    "MarginBottom": 121,
+    "MarginTop": 70,
+    "Transparent": false,
+    "Smooth": false,
+    "Preload": false,
+    "BBoxMode": 0,
+    "SepMasks": "AxisAlignedRect",
+    "OriginX": 100,
+    "OriginY": 200,
+    "OriginXWrapper": 100,
+    "OriginYWrapper": 200,
+    "Textures": [
+      {
+        "Texture": "PageItem 110"
+      },
+      {
+        "Texture": "PageItem 115"
+      },
+      {
+        "Texture": "PageItem 125"
+      },
+      {
+        "Texture": "PageItem 124"
+      },
+      {
+        "Texture": "PageItem 128"
+      },
+      {
+        "Texture": "PageItem 123"
+      },
+      {
+        "Texture": "PageItem 116"
+      },
+      {
+        "Texture": "PageItem 109"
+      }
+    ],
+    "CollisionMasks": [],
+    "SVersion": 3,
+    "SSpriteType": "Normal",
+    "GMS2PlaybackSpeed": 30.0,
+    "GMS2PlaybackSpeedType": "FramesPerSecond",
+    "IsSpecialType": true,
+    "SpineVersion": 0,
+    "SpineCacheVersion": 0,
+    "SpineJSON": null,
+    "SpineAtlas": null,
+    "SpineTextures": null,
+    "IsSpineSprite": false,
+    "SpineHasTextureData": true,
+    "IsYYSWFSprite": false,
+    "SWFVersion": 0,
+    "YYSWF": null,
+    "VectorVersion": 0,
+    "VectorShapes": null,
+    "VectorCollisionMaskWidth": 0,
+    "VectorCollisionMaskHeight": 0,
+    "VectorCollisionMaskRLEData": null,
+    "VectorFrameToShapeMap": null
+  },
+  {
+    "Name": "spr_samurai_red_jump",
+    "Width": 200,
+    "Height": 200,
+    "MarginLeft": 76,
+    "MarginRight": 113,
+    "MarginBottom": 121,
+    "MarginTop": 69,
+    "Transparent": false,
+    "Smooth": false,
+    "Preload": false,
+    "BBoxMode": 0,
+    "SepMasks": "AxisAlignedRect",
+    "OriginX": 100,
+    "OriginY": 200,
+    "OriginXWrapper": 100,
+    "OriginYWrapper": 200,
+    "Textures": [
+      {
+        "Texture": "PageItem 103"
+      },
+      {
+        "Texture": "PageItem 104"
+      }
+    ],
+    "CollisionMasks": [],
+    "SVersion": 3,
+    "SSpriteType": "Normal",
+    "GMS2PlaybackSpeed": 30.0,
+    "GMS2PlaybackSpeedType": "FramesPerSecond",
+    "IsSpecialType": true,
+    "SpineVersion": 0,
+    "SpineCacheVersion": 0,
+    "SpineJSON": null,
+    "SpineAtlas": null,
+    "SpineTextures": null,
+    "IsSpineSprite": false,
+    "SpineHasTextureData": true,
+    "IsYYSWFSprite": false,
+    "SWFVersion": 0,
+    "YYSWF": null,
+    "VectorVersion": 0,
+    "VectorShapes": null,
+    "VectorCollisionMaskWidth": 0,
+    "VectorCollisionMaskHeight": 0,
+    "VectorCollisionMaskRLEData": null,
+    "VectorFrameToShapeMap": null
+  },
+  {
+    "Name": "spr_samurai_red_run",
+    "Width": 200,
+    "Height": 200,
+    "MarginLeft": 72,
+    "MarginRight": 117,
+    "MarginBottom": 121,
+    "MarginTop": 74,
+    "Transparent": false,
+    "Smooth": false,
+    "Preload": false,
+    "BBoxMode": 0,
+    "SepMasks": "AxisAlignedRect",
+    "OriginX": 100,
+    "OriginY": 200,
+    "OriginXWrapper": 100,
+    "OriginYWrapper": 200,
+    "Textures": [
+      {
+        "Texture": "PageItem 86"
+      },
+      {
+        "Texture": "PageItem 85"
+      },
+      {
+        "Texture": "PageItem 83"
+      },
+      {
+        "Texture": "PageItem 62"
+      },
+      {
+        "Texture": "PageItem 63"
+      },
+      {
+        "Texture": "PageItem 84"
+      },
+      {
+        "Texture": "PageItem 65"
+      },
+      {
+        "Texture": "PageItem 64"
+      }
+    ],
+    "CollisionMasks": [],
+    "SVersion": 3,
+    "SSpriteType": "Normal",
+    "GMS2PlaybackSpeed": 30.0,
+    "GMS2PlaybackSpeedType": "FramesPerSecond",
+    "IsSpecialType": true,
+    "SpineVersion": 0,
+    "SpineCacheVersion": 0,
+    "SpineJSON": null,
+    "SpineAtlas": null,
+    "SpineTextures": null,
+    "IsSpineSprite": false,
+    "SpineHasTextureData": true,
+    "IsYYSWFSprite": false,
+    "SWFVersion": 0,
+    "YYSWF": null,
+    "VectorVersion": 0,
+    "VectorShapes": null,
+    "VectorCollisionMaskWidth": 0,
+    "VectorCollisionMaskHeight": 0,
+    "VectorCollisionMaskRLEData": null,
+    "VectorFrameToShapeMap": null
+  },
+  null
+]

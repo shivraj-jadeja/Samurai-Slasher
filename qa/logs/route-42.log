@@ -1,0 +1,23 @@
+Setting scheduler resolution to 1
+Attempting to set gamepadcount to 12
+DirectX11: Using hardware device
+Collision Event time(microsecs)=10
+CreateColPairs took 0.000000s 1 usecs for 24 object types obj_col_numb=0 physobjcount=0 resizes 0 final size 0
+SR START seed=42
+Total memory used = 18437716(0x01195654) bytes 17.58MB
+Peak memory used = 9759184(0x0094e9d0) bytes 9.31MB
+**********************************.
+Entering main loop.
+**********************************.
+SR ROUTE step=600 x=1232 segments=6
+SR ROUTE step=1200 x=2432 segments=6
+SR ROUTE step=1800 x=3632 segments=7
+SR ROUTE step=2400 x=4832 segments=6
+SR ROUTE step=3000 x=6032 segments=6
+SR ROUTE step=3600 x=7232 segments=7
+SR WON seed=42 steps=4183 score=8366 grounded=1 max_instances=976 max_segments=10
+SR RESULTS stable PASS
+###game_end###0
+Attempting to set gamepadcount to 0
+Script_Free called with 30 and global 5
+Unsetting previous scheduler resolution of 1

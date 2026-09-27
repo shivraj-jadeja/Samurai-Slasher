@@ -1,0 +1,48 @@
+Setting scheduler resolution to 1
+Attempting to set gamepadcount to 12
+DirectX11: Using hardware device
+Collision Event time(microsecs)=3
+CreateColPairs took 0.000000s 1 usecs for 24 object types obj_col_numb=0 physobjcount=0 resizes 0 final size 0
+SR START seed=42
+Total memory used = 18449916(0x011985fc) bytes 17.60MB
+Peak memory used = 9759946(0x0094ecca) bytes 9.31MB
+**********************************.
+Entering main loop.
+**********************************.
+SR ROUTE step=600 x=1232 segments=6
+SR ROUTE step=1200 x=2432 segments=6
+SR ROUTE step=1800 x=3632 segments=7
+SR ROUTE step=2400 x=4832 segments=6
+SR ROUTE step=3000 x=6032 segments=6
+SR ROUTE step=3600 x=7232 segments=7
+SR ROUTE step=4200 x=8432 segments=6
+SR ROUTE step=4800 x=9632 segments=6
+SR ROUTE step=5400 x=10832 segments=6
+SR ROUTE step=6000 x=12032 segments=6
+SR ROUTE step=6600 x=13232 segments=6
+SR ROUTE step=7200 x=14432 segments=6
+SR ROUTE step=7800 x=15632 segments=7
+SR ROUTE step=8400 x=16832 segments=6
+SR ROUTE step=9000 x=18032 segments=6
+SR ROUTE step=9600 x=19232 segments=7
+SR ROUTE step=10200 x=20432 segments=6
+SR ROUTE step=10800 x=21632 segments=6
+SR ROUTE step=11400 x=22832 segments=7
+SR ROUTE step=12000 x=24032 segments=6
+SR ROUTE step=12600 x=25232 segments=6
+SR ROUTE step=13200 x=26432 segments=7
+SR ROUTE step=13800 x=27632 segments=6
+SR ROUTE step=14400 x=28832 segments=6
+SR ROUTE step=15000 x=30032 segments=6
+SR ROUTE step=15600 x=31232 segments=6
+SR ROUTE step=16200 x=32432 segments=6
+SR ROUTE step=16800 x=33632 segments=6
+SR ROUTE step=17400 x=34832 segments=7
+SR ROUTE step=18000 x=36032 segments=6
+SR WON seed=42 steps=18519 score=37038 grounded=1 max_instances=865 max_segments=9
+SR RESULTS stable PASS steps=120
+SR SESSION TEST COMPLETE
+###game_end###0
+Attempting to set gamepadcount to 0
+Script_Free called with 31 and global 5
+Unsetting previous scheduler resolution of 1

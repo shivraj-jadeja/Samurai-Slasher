@@ -1,0 +1,160 @@
+[
+  {
+    "object": "obj_airhaz_support",
+    "event": "Create",
+    "detail": "0",
+    "code_files": [
+      "reference/CodeEntries/gml_Object_obj_airhaz_support_Create_0.gml"
+    ]
+  },
+  {
+    "object": "obj_congrats_controller",
+    "event": "Create",
+    "detail": "0",
+    "code_files": []
+  },
+  {
+    "object": "obj_congrats_controller",
+    "event": "Draw",
+    "detail": "Draw GUI",
+    "code_files": [
+      "reference/CodeEntries/gml_Object_obj_congrats_controller_Draw_64.gml"
+    ]
+  },
+  {
+    "object": "obj_congrats_controller",
+    "event": "KeyPress",
+    "detail": "Escape",
+    "code_files": [
+      "reference/CodeEntries/gml_Object_obj_congrats_controller_KeyPress_27.gml"
+    ]
+  },
+  {
+    "object": "obj_deco_tree_cluster",
+    "event": "Create",
+    "detail": "0",
+    "code_files": [
+      "reference/CodeEntries/gml_Object_obj_deco_tree_cluster_Create_0.gml"
+    ]
+  },
+  {
+    "object": "obj_deco_tree_tall",
+    "event": "Create",
+    "detail": "0",
+    "code_files": [
+      "reference/CodeEntries/gml_Object_obj_deco_tree_tall_Create_0.gml"
+    ]
+  },
+  {
+    "object": "obj_deco_volcano",
+    "event": "Create",
+    "detail": "0",
+    "code_files": [
+      "reference/CodeEntries/gml_Object_obj_deco_volcano_Create_0.gml"
+    ]
+  },
+  {
+    "object": "obj_hazard_kill",
+    "event": "Create",
+    "detail": "0",
+    "code_files": [
+      "reference/CodeEntries/gml_Object_obj_hazard_kill_Create_0.gml"
+    ]
+  },
+  {
+    "object": "obj_hazard_kill",
+    "event": "Collision",
+    "detail": "obj_player_samurai",
+    "code_files": [
+      "reference/CodeEntries/gml_Object_obj_hazard_kill_Collision_obj_player_samurai.gml"
+    ]
+  },
+  {
+    "object": "obj_level_controller",
+    "event": "Create",
+    "detail": "0",
+    "code_files": [
+      "reference/CodeEntries/gml_Object_obj_level_controller_Create_0.gml"
+    ]
+  },
+  {
+    "object": "obj_level_controller",
+    "event": "Step",
+    "detail": "Step",
+    "code_files": [
+      "reference/CodeEntries/gml_Object_obj_level_controller_Step_0.gml"
+    ]
+  },
+  {
+    "object": "obj_level_end",
+    "event": "Collision",
+    "detail": "obj_player_samurai",
+    "code_files": [
+      "reference/CodeEntries/gml_Object_obj_level_end_Collision_obj_player_samurai.gml"
+    ]
+  },
+  {
+    "object": "obj_player_samurai",
+    "event": "Create",
+    "detail": "0",
+    "code_files": [
+      "reference/CodeEntries/gml_Object_obj_player_samurai_Create_0.gml"
+    ]
+  },
+  {
+    "object": "obj_player_samurai",
+    "event": "Step",
+    "detail": "Step",
+    "code_files": [
+      "reference/CodeEntries/gml_Object_obj_player_samurai_Step_0.gml"
+    ]
+  },
+  {
+    "object": "obj_player_samurai",
+    "event": "Step",
+    "detail": "End Step",
+    "code_files": [
+      "reference/CodeEntries/gml_Object_obj_player_samurai_Step_2.gml"
+    ]
+  },
+  {
+    "object": "obj_player_samurai",
+    "event": "Other",
+    "detail": "Animation End",
+    "code_files": [
+      "reference/CodeEntries/gml_Object_obj_player_samurai_Other_7.gml"
+    ]
+  },
+  {
+    "object": "obj_player_samurai",
+    "event": "KeyPress",
+    "detail": "Space",
+    "code_files": [
+      "reference/CodeEntries/gml_Object_obj_player_samurai_KeyPress_32.gml"
+    ]
+  },
+  {
+    "object": "obj_player_samurai",
+    "event": "KeyPress",
+    "detail": "X",
+    "code_files": [
+      "reference/CodeEntries/gml_Object_obj_player_samurai_KeyPress_88.gml"
+    ]
+  },
+  {
+    "object": "obj_player_samurai",
+    "event": "KeyPress",
+    "detail": "Z",
+    "code_files": [
+      "reference/CodeEntries/gml_Object_obj_player_samurai_KeyPress_90.gml"
+    ]
+  },
+  {
+    "object": "obj_player_samurai",
+    "event": "KeyPress",
+    "detail": "Escape",
+    "code_files": [
+      "reference/CodeEntries/gml_Object_obj_player_samurai_KeyPress_27.gml"
+    ]
+  }
+]

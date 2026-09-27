@@ -1,0 +1,44 @@
+Setting scheduler resolution to 1
+Attempting to set gamepadcount to 12
+DirectX11: Using hardware device
+Collision Event time(microsecs)=3
+CreateColPairs took 0.000000s 1 usecs for 24 object types obj_col_numb=0 physobjcount=0 resizes 0 final size 0
+SR START seed=42
+SR CHECK PASS: retry/replay resets player and session
+SR CHECK PASS: retry/replay clears old world and goal
+SR CYCLE 0
+Total memory used = 18455561(0x01199c09) bytes 17.60MB
+Peak memory used = 9759955(0x0094ecd3) bytes 9.31MB
+**********************************.
+Entering main loop.
+**********************************.
+SR START seed=42
+SR CHECK PASS: retry/replay resets player and session
+SR CHECK PASS: retry/replay clears old world and goal
+SR CHECK PASS: previous music handle stopped
+SR CYCLE 1
+SR START seed=42
+SR CHECK PASS: retry/replay resets player and session
+SR CHECK PASS: retry/replay clears old world and goal
+SR CHECK PASS: previous music handle stopped
+SR CYCLE 2
+SR START seed=42
+SR CHECK PASS: retry/replay resets player and session
+SR CHECK PASS: retry/replay clears old world and goal
+SR CHECK PASS: previous music handle stopped
+SR CYCLE 3
+SR START seed=42
+SR CHECK PASS: retry/replay resets player and session
+SR CHECK PASS: retry/replay clears old world and goal
+SR CHECK PASS: previous music handle stopped
+SR CYCLE 4
+SR START seed=42
+SR CHECK PASS: retry/replay resets player and session
+SR CHECK PASS: retry/replay clears old world and goal
+SR CHECK PASS: previous music handle stopped
+SR CYCLE 5
+SR FIVE DEATH RETRIES PASS
+###game_end###0
+Attempting to set gamepadcount to 0
+Script_Free called with 31 and global 5
+Unsetting previous scheduler resolution of 1

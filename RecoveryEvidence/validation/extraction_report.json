@@ -1,0 +1,44 @@
+{
+  "extraction_checks": "PASS",
+  "named_sprites": 39,
+  "compiled_sprite_slots": 43,
+  "null_sprite_slots": 4,
+  "frames_verified_against_atlas_pixels": 132,
+  "strips_verified_against_frames": 39,
+  "texture_pages": 2,
+  "audio_files_verified_byte_for_byte_against_data_win": 3,
+  "audio": [
+    {
+      "name": "snd_katana",
+      "channels": 1,
+      "sample_rate": 44100,
+      "sample_width_bytes": 2,
+      "duration_seconds": 0.8881632653061224,
+      "sha256": "4d4163dd15353d154771793831157d5a6c55a7d8550120fc86e3a866cf06755f"
+    },
+    {
+      "name": "snd_music_loop",
+      "channels": 1,
+      "sample_rate": 44100,
+      "sample_width_bytes": 2,
+      "duration_seconds": 11.154285714285715,
+      "sha256": "300c14e2baf2cca6aa4df8e1c17bcb750137a95c4d8adac83c66340aeb7040eb"
+    },
+    {
+      "name": "snd_run_loop",
+      "channels": 1,
+      "sample_rate": 44100,
+      "sample_width_bytes": 2,
+      "duration_seconds": 6.264013605442177,
+      "sha256": "da93b3565b8d63371ae711fd10f49d841893d8db24d88e406481709cb4d855de"
+    }
+  ],
+  "object_definitions": 23,
+  "rooms": 2,
+  "top_level_decompiled_files": 20,
+  "compiled_code_entries": 32,
+  "original_archive_crc": "PASS",
+  "event_code_references": "PASS",
+  "windows_executable_playtest": "NOT RUN",
+  "gamemaker_remake_compile": "NOT RUN - handoff package, not an implemented project"
+}
