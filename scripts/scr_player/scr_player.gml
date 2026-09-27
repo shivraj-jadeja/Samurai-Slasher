@@ -52,7 +52,7 @@ function sr_die() {
 }
 
 /// Integer collision probes with signed subpixel accumulators. Maximum 12 probes/axis.
-/// Unlike the recovered loop, half pixels accumulate instead of rounding away from zero.
+/// Half pixels accumulate instead of being rounded away from zero.
 function sr_move_axis(_amount, _vertical) {
     if (_vertical) sub_y += clamp(_amount, -FALL_LIMIT, FALL_LIMIT);
     else sub_x += clamp(_amount, -FALL_LIMIT, FALL_LIMIT);

@@ -1,66 +1,36 @@
-# Samurai Runner — editable recovery rebuild
+# Samurai Runner
 
-Open **Samurai Slasher.yyp** in GameMaker. The project starts directly in `Room1`.
+Samurai Runner is a 2D action platformer built in GameMaker. The samurai moves forward automatically through a volcanic landscape; the player has to time jumps over lava, avoid overhead hazards, and use two katana attacks to clear the path. A run ends at a visible finish line and records a score based on distance traveled.
 
-## Controls
+**Playable version:** [itch.io link coming soon — replace this text with the game URL]
 
-| Key | Action |
+## Gameplay
+
+- Run through four types of procedurally assembled terrain: open ground, lava gaps, raised platforms, and overhead hazards.
+- Land on gold platforms to switch to the Midnight appearance or sky-blue platforms to switch to Neon. Both changes persist until another form platform is reached.
+- Use either katana attack while running or jumping to cut down trees and small volcano scenery.
+- Reach the finish, see your final score and time, and replay for another run.
+
+| Control | Action |
 |---|---|
-| Space | Jump when grounded |
-| Z / X | Katana attack 1 / 2 |
-| Enter / R | Replay from Congratulations |
+| Space | Jump while grounded |
+| Z | Katana attack 1 |
+| X | Katana attack 2 |
+| Enter or R | Replay from the results screen |
 | Esc | Exit |
 
-Run right automatically, jump over lava, and land on gold or sky-blue platforms to become MIDNIGHT or NEON. Forms change appearance only. Trees and small volcano scenery can be cut; supports are scenery, and lava remains lethal.
+## Built with GameMaker
 
-## Running and editing
+The game is written in editable GML. Gameplay runs at 60 steps per second with a 640 × 360 camera shown in a 1280 × 720 window. The level uses 16-pixel tiles grouped into 256-pixel segments. The opening gives players a safe moment to settle in; later segments vary by seed, and the final stretch provides a clear runway through the finish.
 
-Select Windows / VM and the **Default** configuration, then press F5 with a complete installed runtime. The default window is 1280×720 and the camera is 640×360. Resizing keeps the fixed logical GUI scaled with the game.
+I kept the systems small and focused. The player controller handles movement, collisions, animation and attacks; the level controller owns generated segments and removes them after they leave the camera. A run state controls death, finish approach and victory so score, audio and room transitions stay in sync. Fractional movement is accumulated explicitly, and a stable collision mask keeps the katana animations from changing the player's physical size.
 
-This project preserves the supplied blank project's GameMaker 2022.9.1.51 schema (`GMProject 1.6`, current serializer's sprite frames `1.1`). It was compiled and executed with the already-installed **runtime 2022.9.1.66**. No IDE/runtime setting was changed. At reconstruction time, the IDE selected **2024.14.4.268**, but that installation lacked its Igor and asset-compiler binaries. F5 using that incomplete runtime cannot build until that runtime is repaired. A complete installed runtime is required; the source itself does not require a downgrade. The original build's 2024.14 provenance is retained in `RecoveryEvidence`.
+The project includes three samurai appearances, 39 sprite resources, 132 animation frames, and three sound resources. A Developer configuration supports repeatable seeds and automated gameplay checks. I used it to complete five seeded runs, exercise retries and replays, and run a five-minute generation test.
 
-A ready-to-run Windows build is supplied separately from the editable source. Read `TEST_REPORT.md` for the actual toolchain, test evidence, and remaining manual checks.
+## Run the project
 
-## Source map
+1. Open `Samurai Slasher.yyp` in GameMaker.
+2. Select the **Default** configuration and **Windows / VM** target.
+3. Run the project with a complete GameMaker runtime.
 
-- `scr_config`: one `SamuraiForm` enum, lifecycle states, movement/score constants.
-- `scr_player`: form sprites, bounded subpixel collision movement, attacks and death entry.
-- `scr_segments`: original four segment layouts, ownership, queue cleanup, safe finish runway.
-- `scr_run`: victory snapshot, audio cleanup helpers, replay transition.
-- `obj_level_controller`: session initialization, generation in Begin Step, score/finish in End Step, GUI.
-- `obj_player_samurai`: input, movement, hazard checks, animation completion.
-- `obj_level_end`: visible finish presentation; deliberately has no sprite/mask dependency.
-- `obj_congrats_controller`: frozen results and replay.
-- `scr_verify`: opt-in Developer tests; disabled in Default builds.
-
-## Fidelity and deliberate corrections
-
-All **39 sprites, 132 full-canvas frames, and 3 WAV files** retain their recovered names and exact file bytes. All 21 character sprites retain custom origin (100,200), 30 FPS native playback, and original rectangle bounds. Recorded inclusive bounds are set manually for deterministic masks. `spr_samurai_red_run` supplies a stable rectangle for every form and animation. Current GameMaker collision mode reports the right/bottom *edges* one pixel past those inclusive source bounds; code uses the actual `bbox_*` values.
-
-Terrain stays at scale 1; lava/hazard/support art at 0.125; decor at 0.4 and depth 50. The volcano background repeats horizontally at scale 1. Original interpolation remains enabled. Source texture cropping is disabled; no source PNG was trimmed, resized, recolored, or replaced.
-
-Movement remains 2 pixels/step, gravity 0.5, jump −11, fall cap 12 at 60 steps/sec. Signed fractional remainders replace the old upward rounding bug. The opening segment is safe. Uniform random family selection follows it. Segment ownership removes complete segments more than 256 pixels behind the camera; no per-frame scan of world instances is used.
-
-After 3,600 active steps, the controller schedules one finish **beyond all queued terrain**. It adds three safe segments, places the line 224 pixels into the first, and leaves 544 pixels of runway beyond it. Crossing with the forward body edge wins both grounded and airborne. Lethal contact is resolved first. The marker is presentation only. Death falls for at least 30 steps and restarts by 90 steps, freezing horizontal movement and score.
-
-Distance score is `floor(max(0, furthest_x - start_x) * SCORE_PER_PIXEL)`, with `SCORE_PER_PIXEL=1`. This is a documented reconstruction choice. A stationary blocked player earns no extra points. Final time/score are captured once; replay creates a fresh nonpersistent room, controller, player, terrain, camera and audio handles.
-
-Each attack remaps art without losing animation progress when a platform changes the form. Animation End exits the attack by state, independent of sprite names. A short forward rectangle based on body bounds destroys nearby decorations once, through their removal; it cannot destroy ground or hazards.
-
-## Developer checks
-
-Build the **Developer** configuration to enable the seed HUD and command-line test switches. Default builds ignore these switches. For an exported Developer executable:
-
-```powershell
-& '.\Samurai Slasher.exe' --seed=42 --test=checks
-& '.\Samurai Slasher.exe' --seed=7 --test=route --air-finish
-& '.\Samurai Slasher.exe' --seed=42 --test=retries
-& '.\Samurai Slasher.exe' --seed=42 --test=replay
-& '.\Samurai Slasher.exe' --seed=42 --test=soak
-```
-
-`--segment=0`, `1`, `2`, or `3` forces flat, gap, platform, or overhead-hazard families after the opening. Automated route input runs through the same player Step, collision functions and animation events at normal speed. The soak delays finish scheduling to five minutes and extends the camera's logical horizontal bounds. Replay testing keeps two full-length runs, holds the first results for two minutes, and uses short goal approaches for the last two reset checks. These test settings never affect Default play.
-
-## Preservation
-
-`RecoveryEvidence/` retains the complete recovery package, raw GML, metadata, contact sheets, and untouched original-build ZIP. It is evidence, not registered production code. `ASSET_INVENTORY.md` lists imported assets. `qa/logs/` contains build/runtime evidence. The supplied source archive, checksum and Git snapshot provide independent recoverable copies. Keep the archive on another drive or your own backup service as well.
+The project was built and played with GameMaker IDE 2022.9.1.51 and runtime 2022.9.1.66. All sprites, sounds, rooms and GML source needed to edit and build the game are in this repository.

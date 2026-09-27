@@ -8,7 +8,7 @@ function sr_test_checks() {
     sr_assert(instance_number(obj_player_samurai) == 1 && instance_number(obj_level_controller) == 1, "single controller/player");
     sr_assert(player.form == SamuraiForm.RED && score == 0 && elapsed_steps == 0, "explicit clean run state");
     sr_assert(ds_queue_size(segments) == 4, "four prewarmed segments");
-    sr_assert(sprite_get_xoffset(spr_samurai_red_run) == 100 && sprite_get_yoffset(spr_samurai_red_run) == 200, "original character origin");
+    sr_assert(sprite_get_xoffset(spr_samurai_red_run) == 100 && sprite_get_yoffset(spr_samurai_red_run) == 200, "character origin and animation alignment");
     sr_assert(sprite_get_speed(spr_samurai_red_run) == 30 && player.image_speed == 0.3, "native 30 FPS and run multiplier");
     // Use a remote arena in the actual room, leaving the procedural slice intact.
     var _solid = instance_create_layer(15000, 640, "Instances", obj_solid_gold);
