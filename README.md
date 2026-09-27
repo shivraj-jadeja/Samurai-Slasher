@@ -1,8 +1,8 @@
-# Samurai Runner
+# Samurai Slasher
 
-Samurai Runner is a 2D action platformer built in GameMaker. The samurai moves forward automatically through a volcanic landscape; the player has to time jumps over lava, avoid overhead hazards, and use two katana attacks to clear the path. A run ends at a visible finish line and records a score based on distance traveled.
+Samurai Slasher is a 2D action platformer built in GameMaker. The samurai moves forward automatically through a volcanic landscape; the player has to time jumps over lava, avoid overhead hazards, and use two katana attacks to clear the path. A run ends at a visible finish line and records a score based on distance traveled.
 
-**Playable version:** [itch.io link coming soon — replace this text with the game URL]
+**Playable version:** [itch.io link coming soon]
 
 ## Gameplay
 
@@ -21,7 +21,7 @@ Samurai Runner is a 2D action platformer built in GameMaker. The samurai moves f
 
 ## Built with GameMaker
 
-The game is written in editable GML. Gameplay runs at 60 steps per second with a 640 × 360 camera shown in a 1280 × 720 window. The level uses 16-pixel tiles grouped into 256-pixel segments. The opening gives players a safe moment to settle in; later segments vary by seed, and the final stretch provides a clear runway through the finish.
+The game is written in GML. Gameplay runs at 60 steps per second with a 640 × 360 camera shown in a 1280 × 720 window. The level uses 16-pixel tiles grouped into 256-pixel segments. The opening gives players a safe moment to settle in; later segments vary by seed, and the final stretch provides a clear runway through the finish.
 
 I kept the systems small and focused. The player controller handles movement, collisions, animation and attacks; the level controller owns generated segments and removes them after they leave the camera. A run state controls death, finish approach and victory so score, audio and room transitions stay in sync. Fractional movement is accumulated explicitly, and a stable collision mask keeps the katana animations from changing the player's physical size.
 
